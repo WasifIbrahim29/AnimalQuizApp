@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimalQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">This is Animal %1$d of %2$d</string>
+</resources>
